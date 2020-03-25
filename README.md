@@ -1,7 +1,7 @@
 # 【跟我学】三步创建可复用的肺炎检测模型
 
 *声明：本示例仅用于演示产品功能，肺炎检测算法仅供学习、研究使用，请谨慎用于实际生产环境。所用算法源于Github和Kaggle的开源项目，项目地址见文末附录。*
-
+***
 Oracle Data Science可以让数据科学家快速在Oracle公有云上搭建数据科学平台，在Oracle Data Science当中集成了数据分析和机器学习经常使用的工具包和插件。除了提供稳定、灵活的数据科学开发环境之外，Oracle Data Science还配备了独有的模型目录（Model Catalog）和Oracle Accelerated Data Science SDK（加速数据科学包，简称ADS），能让数据科学团队的工作更加高效和便捷。
 
 ## 模型目录简介 
